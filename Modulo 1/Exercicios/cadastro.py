@@ -1,0 +1,8 @@
+print ('---------------\n Cadastro \n---------------')
+nome = input('Digite seu nome: ')
+email = input('Digite seu email: ')
+escola = input('Digite o nome da sua escola: ')
+print('----------------\n Cadastro Finalizado \n----------------')
+print(f'Usuarioª: {nome}')
+print(f'Email: {email}')
+print(f'Escola: {escola}')
